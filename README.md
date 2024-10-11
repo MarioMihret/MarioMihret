@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m a Full Stack Developer passionate about creating dynamic web applications.<br><br>👯 I’m currently working on a personal project that integrates machine learning with a user-friendly interface.<br><br>🤝 I’m looking to collaborate on open-source projects, especially in web development or data visualization.<br><br>🌱 I’m currently learning TypeScript .<br><br>💬 Ask me about my experiences with React, Node.js, or any challenges you might be facing in full stack development!<br><br>⚡ Fun fact: I love hiking and often find inspiration for coding while out in nature!<br><br>
+👋 Hi there! I’m a Full Stack Developer passionate about creating dynamic web applications.<br><br>👯 I’m currently working on a personal project that integrates machine learning with a user-friendly interface.<br><br>🤝 I’m looking to collaborate on open-source projects, especially in web development .<br><br>🌱 I’m currently learning TypeScript .<br><br>💬 Ask me about my experiences with React, Node.js, or any challenges you might be facing in full stack development!<br><br>⚡ Fun fact: I love hiking and often find inspiration for coding while out in nature!<br><br>
 
 
 ## 🌐 Socials:
